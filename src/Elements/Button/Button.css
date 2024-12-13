@@ -1,0 +1,15 @@
+.button {
+    
+    padding-block: 1px;
+    padding-inline: 8px;
+    border: 1.5px solid black;
+    border-radius: 10px;
+    background-color:#fdfd98;
+}
+
+.button:hover {
+    box-shadow: 0 0 14px 8px white;
+}
+.button:active {
+    transform: scale(.96);
+}
